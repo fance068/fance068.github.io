@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BESTV-4k
 http://10.8.1.1:4088/rtp/239.45.3.107:5140
-#EXTINF:-1 爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 #EXTINF:-1,CCTV-1高清
 http://10.8.1.1:4088/rtp/239.45.3.145:5140
 #EXTINF:-1,CCTV-2
